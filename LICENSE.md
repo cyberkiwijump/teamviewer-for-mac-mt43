@@ -1,4 +1,4 @@
-# 
+# Enhance TeamViewer for macOS with rare TeamViewer for macOS Script | session-management + wake-on-LAN, the #1 script. Includes session-management and wake-on-LAN for a smoother
 
 
 
